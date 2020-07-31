@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CotizarCripto/static/css/main.97cd5f8b.chunk.css",
+    "main.js": "/CotizarCripto/static/js/main.647a311b.chunk.js",
+    "main.js.map": "/CotizarCripto/static/js/main.647a311b.chunk.js.map",
+    "runtime-main.js": "/CotizarCripto/static/js/runtime-main.0ccea8a3.js",
+    "runtime-main.js.map": "/CotizarCripto/static/js/runtime-main.0ccea8a3.js.map",
+    "static/js/2.b2e0ea8f.chunk.js": "/CotizarCripto/static/js/2.b2e0ea8f.chunk.js",
+    "static/js/2.b2e0ea8f.chunk.js.map": "/CotizarCripto/static/js/2.b2e0ea8f.chunk.js.map",
+    "index.html": "/CotizarCripto/index.html",
+    "precache-manifest.65933fd4934d57ef148c87d7bfb76435.js": "/CotizarCripto/precache-manifest.65933fd4934d57ef148c87d7bfb76435.js",
+    "service-worker.js": "/CotizarCripto/service-worker.js",
+    "static/css/main.97cd5f8b.chunk.css.map": "/CotizarCripto/static/css/main.97cd5f8b.chunk.css.map",
+    "static/js/2.b2e0ea8f.chunk.js.LICENSE.txt": "/CotizarCripto/static/js/2.b2e0ea8f.chunk.js.LICENSE.txt",
+    "static/media/cryptomonedas.png": "/CotizarCripto/static/media/cryptomonedas.96e45d69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ccea8a3.js",
+    "static/js/2.b2e0ea8f.chunk.js",
+    "static/css/main.97cd5f8b.chunk.css",
+    "static/js/main.647a311b.chunk.js"
+  ]
+}
